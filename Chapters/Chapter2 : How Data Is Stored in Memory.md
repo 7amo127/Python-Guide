@@ -320,7 +320,8 @@ def flexible(value: Union[int, str]) -> str:
 
 A list is an **ordered, mutable, dynamic array** of references to objects.
 
-**In memory**, a Python list is stored as an array of **pointers** (references) to objects, not the objects themselves. This is why lists can hold mixed types.
+**In memory**, a Python list is stored as an array of **pointers** (references) to objects, not the objects themselves. This is why lists can hold mixed types. finally the list not stored the data it's stored the pointers and the data is stored in diffrence locations in memory and the pointer refer to it 
+
 
 ```
 list = [1, "hello", 3.14]
