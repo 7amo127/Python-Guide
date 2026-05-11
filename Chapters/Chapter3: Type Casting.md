@@ -30,6 +30,7 @@
 **Type casting** (also called **type conversion**) means taking an object of one type and producing an equivalent object of another type.
 
 In Python, since **everything is an object**, type casting is really about creating a **new object** of the target type that represents the same data (or as much of it as possible).
+Create a **new object** of a different type **using data from an old object**.
 
 There are two kinds:
 - **Implicit (automatic)**: Python converts types for you silently.
