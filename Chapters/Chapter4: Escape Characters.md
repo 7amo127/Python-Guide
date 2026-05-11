@@ -1,5 +1,5 @@
 
-# 🐍 Python Book — Chapter 4: Escape Characters
+# 🐍 Python Mastery Book — Chapter 4: Escape Characters
 
 > "Mastering escape characters is the difference between a beginner who fights strings and a senior who controls them completely."
 
