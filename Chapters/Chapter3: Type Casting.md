@@ -32,6 +32,7 @@
 In Python, since **everything is an object**, type casting is really about creating a **new object** of the target type that represents the same data (or as much of it as possible).
 Create a **new object** of a different type **using data from an old object**.
 
+
 There are two kinds:
 - **Implicit (automatic)**: Python converts types for you silently.
 - **Explicit (manual)**: You do it intentionally using built-in functions.
